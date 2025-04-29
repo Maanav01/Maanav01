@@ -38,17 +38,6 @@ I'm on a mission to master DevOps and Cloud technologies, solve real-world probl
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🌐 [AWS Café Website](#) | LAMP app deployed on EC2 with AMI backup and region replication |
-| 🧠 [LALR Parser Generator in C](#) | Takes grammar input and generates parse tables & parsing steps |
-| ♟️ [Web Chess Interface + C Validator](#) | Frontend in HTML/CSS with backend move validation in C |
-| 🤖 [Teachable Machine Classifier](#) | Built stone-paper-scissors model using Google TM |
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maanav-singh)  
