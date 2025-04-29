@@ -50,7 +50,7 @@ I'm on a mission to master DevOps and Cloud technologies, solve real-world probl
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maanav-singh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maanav-singh-8b10882a0/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maanavsingh8433@email.com)  
 [![GitHub](https://img.shields.io/github/followers/Maanav-Singh?label=Follow&style=social)](https://github.com/Maanav01)
 
